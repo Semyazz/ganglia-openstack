@@ -5,13 +5,12 @@ Configuration file
 ------------------
 gmetad-plugin.conf copy to
 
-::
     /etc/ganglia/gmetad-python.conf
 
 
 Run
 ---
-::
+
     python gmetad-python --conf=/etc/ganglia/gmetad-plugin.conf
 
 
